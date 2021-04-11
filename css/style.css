@@ -1,0 +1,13 @@
+:root {
+  --background-color: #F1FEFA;
+  --title-color: #1D3557;
+  --text-color: #000000;
+  --spotlight-color: #E63946;
+  --image-color: #A8DADC;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
